@@ -10,5 +10,8 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #red{
-  border-top-color: 
+  border-top-color: #f00
+}
+#orange{
+  border-top-color: #ffa500
 }
